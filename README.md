@@ -6,7 +6,7 @@ I'm passionate about coding, technology, and creating amazing projects that make
 
 - 🔭 I’m currently working on **Twicord**
 - 🌱 I’m currently learning **Nothing**
-- 👯 I’m looking to collaborate on **[Project/Type of Projects**
+<!--- - 👯 I’m looking to collaborate on **[Project/Type of Projects** -->
 - 💬 Ask me about **Python/HTML/CSS**
 - 📫 How to reach me: **yoo.siddharthab41210@gmail.com**
 - ⚡ Fun fact: **I make some cool bugs 🐞**

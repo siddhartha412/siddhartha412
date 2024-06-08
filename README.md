@@ -1,6 +1,12 @@
+<img align="center" alt="banner" width="1000" height="500" src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075">
+
+
 ## 👋 Hello! I'm YooSiddhartha41210
 
 I'm passionate about coding, technology, and creating amazing projects that make a difference. Welcome to my GitHub profile where you can explore my latest work, collaborate, and contribute.
+<br>
+<br>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 ### 🚀 About Me
 

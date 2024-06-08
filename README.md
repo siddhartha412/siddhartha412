@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="1000" height="500" src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075">
+<img align="center" alt="banner" width="800" height="300" src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075">
 
 
 ## 👋 Hello! I'm YooSiddhartha41210

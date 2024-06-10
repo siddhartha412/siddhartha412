@@ -12,8 +12,7 @@ Yoo! Bro/Sis, I'm Siddhartha Banerjee from India. Btw My age is 13. Also I read 
 <br>
 <br>
 <br>
-.
-.
+.<br>
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **Twicord**

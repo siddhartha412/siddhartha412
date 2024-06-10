@@ -10,6 +10,8 @@ Yoo! Bro/Sis, I'm Siddhartha Banerjee from India. Btw My age is 13. Also I read 
 <br>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 <br>
+<br>
+<br>
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **Twicord**

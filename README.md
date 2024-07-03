@@ -2,7 +2,7 @@
 
 <br>
 
-## 👋 Hello! I'm YooSiddhartha41210
+## 👋 Yoo! I'm YooSiddhartha41210
 
 Yoo! Bro/Sis, I'm Siddhartha Banerjee from India. Btw My age is 13. Also I read in Class 8th. I am also a backend developer ;).
 <br>
@@ -20,8 +20,21 @@ Yoo! Bro/Sis, I'm Siddhartha Banerjee from India. Btw My age is 13. Also I read 
 - 💬 Ask me about **Python/HTML/CSS**
 - 📫 How to reach me: **yoo.siddharthab41210@gmail.com**
 - ⚡ Fun fact: **I make some cool bugs 🐞**
-- 🤔 Future Thinking : Making own team to make fun codes...
-<!--- - 👯 I’m looking to collaborate on **[Project/Type of Projects** -->
+- 🤔 Future Thinking: Making own team to make fun codes...
+
+
+### 📊 My Stats
+
+![Siddhartha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YooSiddhartha41210&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0d0d0d,004d7a,008793&hide_border=true&theme=dark)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YooSiddhartha41210&layout=compact&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0d0d0d,004d7a,008793&hide_border=true&theme=dark)
+
+
+
+
+
+
+
 
 ### 🛠️ Technologies & Tools
 
@@ -35,6 +48,13 @@ Yoo! Bro/Sis, I'm Siddhartha Banerjee from India. Btw My age is 13. Also I read 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+### 🤳 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yoosiddhartha41210/)
+[![Replit](https://img.shields.io/badge/Replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@siddhartha41210)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61561660768739)
+[![x](https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge)](https://x.com/YooSid41210)
 
 #### Discord Status 
 

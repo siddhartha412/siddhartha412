@@ -35,6 +35,7 @@ Yoo! Bro/Sis, I'm Siddhartha Banerjee from India. Btw My age is 13. Also I read 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
 #### Discord Status 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1257355582524887062)](https://discord.com/users/1257355582524887062)

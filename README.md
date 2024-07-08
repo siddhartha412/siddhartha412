@@ -2,7 +2,7 @@
 
 <br>
 
-## 👋 Yoo! I'm YooSiddhartha41210
+## 👋 Yoo! I'm Siddhartha41210
 
 Yoo! Bro/Sis, I'm Siddhartha Banerjee from India. Btw My age is 13. Also I read in Class 8th. I am also a backend developer ;).
 <br>

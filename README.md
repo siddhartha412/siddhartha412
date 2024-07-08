@@ -25,9 +25,9 @@ Yoo! Bro/Sis, I'm Siddhartha Banerjee from India. Btw My age is 13. Also I read 
 
 ### 📊 My Stats
 
-![Siddhartha's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhartha41210-git&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0d0d0d,004d7a,008793&hide_border=true&theme=dark)
+![Siddhartha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddhartha41210-git&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0d0d0d,004d7a,008793&hide_border=true&theme=dark)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha41210-git&layout=compact&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0d0d0d,004d7a,008793&hide_border=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha41210-git&layout=compact&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0d0d0d,004d7a,008793&hide_border=true&theme=dark)
 
 
 

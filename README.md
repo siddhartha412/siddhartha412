@@ -51,10 +51,9 @@ Yoo! Bro/Sis, I'm Siddhartha Banerjee from India. Btw My age is 13. Also I read 
 
 ### 🤳 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yoosiddhartha41210/)
-[![Replit](https://img.shields.io/badge/Replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@siddhartha41210)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61561660768739)
-[![x](https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge)](https://x.com/YooSid41210)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siddhartha41210_/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)]()
+[![x](https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge)](https://x.com/Sid41210)
 
 #### Discord Status 
 

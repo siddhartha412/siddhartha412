@@ -18,7 +18,7 @@ Yoo! Bro/Sis, I'm Siddhartha Banerjee from India. Btw My age is 13. Also I read 
 - 🔭 I’m currently working on **Twicord**
 - 🌱 I’m currently learning **Nothing**
 - 💬 Ask me about **Python/HTML/CSS**
-- 📫 How to reach me: **yoo.siddharthab41210@gmail.com**
+- 📫 How to reach me: **supp.sid41210@gmail.com**
 - ⚡ Fun fact: **I make some cool bugs 🐞**
 - 🤔 Future Thinking: Making own team to make fun codes...
 

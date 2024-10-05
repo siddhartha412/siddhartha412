@@ -1,8 +1,12 @@
+<h1>Yoo! <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"></h1>
+<h3> Welcome to my  <a href="https://github.com/Siddhartha41210-git"></a>Profile <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h3>
+</h1>
+<br>
 <img align="center" alt="banner" width="900" height="400" src="https://cdnb.artstation.com/p/assets/images/images/037/650/865/original/aaron-j-charlie-background-gif.gif?1620933075">
 
 <br>
 
-## 👋 Yoo! I'm Siddhartha41210
+## 👋I'm Siddhartha41210
 
 Yoo! Bro/Sis, I'm Siddhartha Banerjee from India. Btw My age is 13. Also I read in Class 8th. I am also a backend developer ;).
 <br>
@@ -57,5 +61,5 @@ Yoo! Bro/Sis, I'm Siddhartha Banerjee from India. Btw My age is 13. Also I read 
 
 #### Discord Status 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1259549201990418546)](https://discord.com/users/1259549201990418546)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1261577588669939755)](https://discord.com/users/1261577588669939755)
 

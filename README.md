@@ -20,11 +20,11 @@ Yoo! Bro/Sis, I'm Siddhartha Banerjee from India. Btw My age is 13. Also I read 
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **Cool Projects**
-- 🌱 I’m currently learning **Nodejs and electron js and many more new things;)**
+- 🌱 I’m currently learning **Your Mind👀**
 - 💬 Ask me about **Python/HTML/CSS/JS**
 - 📫 How to reach me: **supp.sid41210@gmail.com**
 - ⚡ Fun fact: **I make some cool bugs 🐞**
-- 🤔 Future Thinking: Making own team to make fun codes...
+- 🤔 Future Thinking: Present is present , bez my future is black than ur eyes closed ☠
 
 
 ### 📊 My Stats

@@ -63,3 +63,6 @@ Yoo! Bro/Sis, I'm Siddhartha Banerjee from India. Btw My age is 13. Also I read 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1261577588669939755)](https://discord.com/users/1261577588669939755)
 
+<br>
+
+![](https://visitcount.itsvg.in/api?id=siddhartha41210-git&label=Profile%20Views&color=0&icon=8&pretty=false)

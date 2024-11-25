@@ -1,67 +1,63 @@
-# Hello, I'm Siddhartha Banerjee! 👋
-
-Welcome to my GitHub profile. I'm the **Founder of Twizzers** and a passionate **Backend Developer** from India. I create cool code bugs while learning and improving my skills every day! 😎
-
-## 🚀 About Me
-
-- 🔭 Currently working on **multiple exciting projects**.
-- 🌱 I'm exploring **AI and machine learning** to add more value to my backend development.
-- 💬 Ask me about **Python, Node.js, JavaScript, HTML/CSS, Flask, and more**.
-- 📫 Reach out to me at: **supp.sid41210@gmail.com**.
-- ⚡ **Fun Fact**: I love solving complex problems and occasionally creating fun bugs! 🐞
-- 🤔 My future thinking: I'm focused on the present, but my ambition goes far beyond the horizon.
+<h1>Yoo! <img width="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"></h1>
+<h3>Welcome to my <a href="https://github.com/Siddhartha41210-git">Profile</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h3>
 
 ---
 
-## 📊 GitHub Stats
+## 👋 I'm Siddhartha Banerjee  
+Hey there! I'm **Siddhartha Banerjee**, a 13-year-old backend developer from India. Currently studying in 8th grade, I love building cool projects and exploring technology.  
 
+### 🚀 About Me
+- 🔭 I’m currently working on **Cool Projects**  
+- 🌱 I’m currently learning **Your Mind 👀**  
+- 💬 Ask me about **Python, HTML, CSS, JS**  
+- 📫 Reach me at **supp.sid41210@gmail.com**  
+- ⚡ Fun fact: **I make cool code bugs 🐞**  
+- 🤔 Future Thinking: **Present is present because my future is blacker than your closed eyes ☠**  
+
+---
+
+### 📊 My Stats  
 <div style="display: flex; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siddhartha412&show_icons=true&hide_border=true&bg_color=0d0d0d&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&theme=dark&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha412&layout=compact&hide_border=true&bg_color=0d0d0d&text_color=FFFFFF&title_color=FFFFFF&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhartha412&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=87CEEB&bg_color=000000&hide_border=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha412&layout=compact&title_color=FFFFFF&text_color=FFFFFF&icon_color=87CEEB&bg_color=000000&hide_border=true&theme=dark" />
 </div>
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools
 
-#### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js&logoColor=white) 
+#### Languages  
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=87CEEB)  
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=87CEEB)  
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=87CEEB)  
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=87CEEB)  
 
-#### **Frameworks & Libraries**
-![Electron.js](https://img.shields.io/badge/Electron.js-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+#### Frameworks & Libraries  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=87CEEB)  
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=87CEEB)  
+![Discord.py](https://img.shields.io/badge/Discord.py-000000?style=for-the-badge&logo=discord&logoColor=87CEEB)  
 
-#### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-24292F?style=for-the-badge&logo=github&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white) 
-
----
-
-## 🌱 Currently Learning
-- Deep Dive into **Machine Learning** and **AI**.
-- Exploring **advanced backend frameworks** and **cloud technologies**.
+#### Tools  
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=87CEEB)  
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=87CEEB)  
+![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-000000?style=for-the-badge&logo=github&logoColor=87CEEB)  
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=87CEEB)  
+![Lunacy](https://img.shields.io/badge/Lunacy-000000?style=for-the-badge&logo=lunacy&logoColor=87CEEB)  
 
 ---
 
-## 🤳 Let's Connect
+### 🤳 Socials  
 
-Feel free to reach out through any of the following platforms:
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=87CEEB)](https://www.instagram.com/siddhartha41210_/)  
+[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=87CEEB)]()  
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=87CEEB)](https://x.com/Sid41210)  
 
-- [Instagram](https://www.instagram.com/siddhartha41210_/)
-- [x (Formerly Twitter)](https://x.com/Sid41210)
-- [LinkedIn](https://www.linkedin.com/in/siddhartha41210)
+---
 
-#### Discord Status
+### 🎮 Discord Presence  
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1261577588669939755)](https://discord.com/users/1261577588669939755)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1261577588669939755)](https://discord.com/users/1261577588669939755)  
 
 ---
 
 ![](https://visitcount.itsvg.in/api?id=siddhartha41210-git&label=Profile%20Views&color=0&icon=8&pretty=false)
-

@@ -3,14 +3,14 @@
 
 ---
 
-## 👋 I'm Siddhartha Banerjee  
+## 👋 I'm Siddhartha412  
 Hey there! I'm **Siddhartha Banerjee**, a 13-year-old backend developer from India. Currently studying in 8th grade, I love building cool projects and exploring technology.  
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Cool Projects**  
 - 🌱 I’m currently learning **Your Mind 👀**  
 - 💬 Ask me about **Python, HTML, CSS, JS**  
-- 📫 Reach me at **supp.sid41210@gmail.com**  
+- 📫 Reach me at **siddharthab412@gmail.com**  
 - ⚡ Fun fact: **I make cool code bugs 🐞**  
 - 🤔 Future Thinking: **Present is present because my future is blacker than your closed eyes ☠**  
 

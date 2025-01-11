@@ -19,7 +19,8 @@ Hey there! I'm **Siddhartha Banerjee**, a 13-year-old backend developer from Ind
 ### 📊 My Stats  
 <div style="display: flex; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Siddhartha412&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=87CEEB&bg_color=000000&hide_border=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhartha412&layout=compact&title_color=FFFFFF&text_color=FFFFFF&icon_color=87CEEB&bg_color=000000&hide_border=true&theme=dark" />
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha412&layout=compact&bg_color=000000&text_color=ffffff)
 </div>
 
 ---

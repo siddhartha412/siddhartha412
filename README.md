@@ -34,12 +34,17 @@ Hey there! I'm **Siddhartha Banerjee**, a 13-year-old backend developer from Ind
     <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=87CEEB" alt="CSS3" />
     <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=87CEEB" alt="Python" />
     <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=87CEEB" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=87CEEB" alt="Node.js" />
   </div>
   <div>
     <h4>Frameworks & Libraries</h4>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=87CEEB" alt="Flask" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=87CEEB" alt="Express.js" />
+    <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=87CEEB" alt="React" />
     <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=87CEEB" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/Discord.py-000000?style=for-the-badge&logo=discord&logoColor=87CEEB" alt="Discord.py" />
+    <img src="https://img.shields.io/badge/Electron_JS-000000?style=for-the-badge&logo=electron&logoColor=87CEEB" alt="Electron JS" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=87CEEB" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=87CEEB" alt="Bootstrap" />
   </div>
   <div>
     <h4>Tools</h4>
@@ -47,7 +52,7 @@ Hey there! I'm **Siddhartha Banerjee**, a 13-year-old backend developer from Ind
     <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=87CEEB" alt="Git" />
     <img src="https://img.shields.io/badge/GitHub_Desktop-000000?style=for-the-badge&logo=github&logoColor=87CEEB" alt="GitHub Desktop" />
     <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=87CEEB" alt="VS Code" />
-       <img src="https://img.shields.io/badge/Lunacy-000000?style=for-the-badge&logo=lunacy&logoColor=87CEEB" alt="Lunacy" />
+
   </div>
 </div>
 
@@ -56,10 +61,10 @@ Hey there! I'm **Siddhartha Banerjee**, a 13-year-old backend developer from Ind
 ### 🤳 Socials  
 
 <div style="display: flex; gap: 20px;">
-  <a href="https://www.instagram.com/siddhartha41210_/">
+  <a href="https://www.instagram.com/siddharthab412/">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=87CEEB" alt="Instagram" />
   </a>
-  <a href="https://x.com/Sid41210">
+  <a href="https://x.com/siddharthab412">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=87CEEB" alt="X (formerly Twitter)" />
   </a>
   <a href="https://discord.com/users/1261577588669939755">

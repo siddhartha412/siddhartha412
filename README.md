@@ -11,7 +11,7 @@ Hey there! I'm **Siddhartha Banerjee**, a 13-year-old backend developer from Ind
 - 🌱 I’m currently learning **Your Mind 👀**  
 - 💬 Ask me about **Python, HTML, CSS, JS**  
 - 📫 Reach me at **siddharthab412@gmail.com**  
-- ⚡ Fun fact: **I make cool code bugs 🐞**  
+- ⚡ Fun fact: **Turning Bugs into Features**  
 - 🤔 Future Thinking: **Present is present because my future is blacker than your closed eyes ☠**  
 
 ---

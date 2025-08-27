@@ -61,7 +61,7 @@ Hey there! I'm **Siddhartha Banerjee**, a 13-year-old backend developer from Ind
 ### 🤳 Socials  
 
 <div style="display: flex; gap: 20px;">
-  <a href="https://www.instagram.com/siddharthab412/">
+  <a href="https://www.instagram.com/the.minimaluser/">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=87CEEB" alt="Instagram" />
   </a>
   <a href="https://x.com/siddharthab412">

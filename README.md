@@ -82,3 +82,6 @@ Hey there! I'm **Siddhartha Banerjee**, a 13-year-old backend developer from Ind
 
 ![](https://visitcount.itsvg.in/api?id=siddhartha41210-git&label=Profile%20Views&color=87CEEB&icon=8&pretty=false)
 
+### 😎 My vibes
+![](https://readdmee.vercel.app/api/scity/India)
+

@@ -4,7 +4,7 @@
 ---
 
 ## 👋 I'm Siddhartha412  
-Hey there! I'm **Siddhartha Banerjee**, a 13-year-old backend developer from India. Currently studying in 8th grade, I love building cool projects and exploring technology.  
+Hey there! I'm **Siddhartha Banerjee**, a 14-year-old backend developer from India. Currently studying in 8th grade, I love building cool projects and exploring technology.  
 
 ### 🚀 About Me
 - 🔭 I’m currently working on **Cool Projects**  
